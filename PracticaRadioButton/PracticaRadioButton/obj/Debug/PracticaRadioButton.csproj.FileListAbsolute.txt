@@ -1,0 +1,9 @@
+c:\users\joshu\documents\visual studio 2015\Projects\PracticaRadioButton\PracticaRadioButton\bin\Debug\PracticaRadioButton.exe.config
+c:\users\joshu\documents\visual studio 2015\Projects\PracticaRadioButton\PracticaRadioButton\bin\Debug\PracticaRadioButton.exe
+c:\users\joshu\documents\visual studio 2015\Projects\PracticaRadioButton\PracticaRadioButton\bin\Debug\PracticaRadioButton.pdb
+c:\users\joshu\documents\visual studio 2015\Projects\PracticaRadioButton\PracticaRadioButton\obj\Debug\PracticaRadioButton.csprojResolveAssemblyReference.cache
+c:\users\joshu\documents\visual studio 2015\Projects\PracticaRadioButton\PracticaRadioButton\obj\Debug\PracticaRadioButton.Form1.resources
+c:\users\joshu\documents\visual studio 2015\Projects\PracticaRadioButton\PracticaRadioButton\obj\Debug\PracticaRadioButton.Properties.Resources.resources
+c:\users\joshu\documents\visual studio 2015\Projects\PracticaRadioButton\PracticaRadioButton\obj\Debug\PracticaRadioButton.csproj.GenerateResource.Cache
+c:\users\joshu\documents\visual studio 2015\Projects\PracticaRadioButton\PracticaRadioButton\obj\Debug\PracticaRadioButton.exe
+c:\users\joshu\documents\visual studio 2015\Projects\PracticaRadioButton\PracticaRadioButton\obj\Debug\PracticaRadioButton.pdb

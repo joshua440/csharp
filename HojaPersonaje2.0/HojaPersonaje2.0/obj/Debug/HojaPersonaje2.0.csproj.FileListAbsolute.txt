@@ -1,0 +1,14 @@
+c:\users\joshu\documents\visual studio 2015\Projects\HojaPersonaje2.0\HojaPersonaje2.0\bin\Debug\HojaPersonaje2.0.exe.config
+c:\users\joshu\documents\visual studio 2015\Projects\HojaPersonaje2.0\HojaPersonaje2.0\bin\Debug\HojaPersonaje2.0.exe
+c:\users\joshu\documents\visual studio 2015\Projects\HojaPersonaje2.0\HojaPersonaje2.0\bin\Debug\HojaPersonaje2.0.pdb
+c:\users\joshu\documents\visual studio 2015\Projects\HojaPersonaje2.0\HojaPersonaje2.0\bin\Debug\Interop.WMPLib.dll
+c:\users\joshu\documents\visual studio 2015\Projects\HojaPersonaje2.0\HojaPersonaje2.0\bin\Debug\AxInterop.WMPLib.dll
+c:\users\joshu\documents\visual studio 2015\Projects\HojaPersonaje2.0\HojaPersonaje2.0\obj\Debug\Interop.WMPLib.dll
+c:\users\joshu\documents\visual studio 2015\Projects\HojaPersonaje2.0\HojaPersonaje2.0\obj\Debug\AxInterop.WMPLib.dll
+c:\users\joshu\documents\visual studio 2015\Projects\HojaPersonaje2.0\HojaPersonaje2.0\obj\Debug\HojaPersonaje2.0.csproj.ResolveComReference.cache
+c:\users\joshu\documents\visual studio 2015\Projects\HojaPersonaje2.0\HojaPersonaje2.0\obj\Debug\HojaPersonaje2._0.Form1.resources
+c:\users\joshu\documents\visual studio 2015\Projects\HojaPersonaje2.0\HojaPersonaje2.0\obj\Debug\HojaPersonaje2._0.Properties.Resources.resources
+c:\users\joshu\documents\visual studio 2015\Projects\HojaPersonaje2.0\HojaPersonaje2.0\obj\Debug\HojaPersonaje2.0.csproj.GenerateResource.Cache
+c:\users\joshu\documents\visual studio 2015\Projects\HojaPersonaje2.0\HojaPersonaje2.0\obj\Debug\HojaPersonaje2.0.exe
+c:\users\joshu\documents\visual studio 2015\Projects\HojaPersonaje2.0\HojaPersonaje2.0\obj\Debug\HojaPersonaje2.0.pdb
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\HojaPersonaje2.0\HojaPersonaje2.0\obj\Debug\HojaPersonaje2.0.csprojResolveAssemblyReference.cache

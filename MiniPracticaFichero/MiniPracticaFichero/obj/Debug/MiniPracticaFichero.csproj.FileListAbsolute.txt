@@ -1,0 +1,9 @@
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaFichero\MiniPracticaFichero\bin\Debug\MiniPracticaFichero.exe.config
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaFichero\MiniPracticaFichero\bin\Debug\MiniPracticaFichero.exe
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaFichero\MiniPracticaFichero\bin\Debug\MiniPracticaFichero.pdb
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaFichero\MiniPracticaFichero\obj\Debug\MiniPracticaFichero.csprojResolveAssemblyReference.cache
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaFichero\MiniPracticaFichero\obj\Debug\MiniPracticaFichero.Form1.resources
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaFichero\MiniPracticaFichero\obj\Debug\MiniPracticaFichero.Properties.Resources.resources
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaFichero\MiniPracticaFichero\obj\Debug\MiniPracticaFichero.csproj.GenerateResource.Cache
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaFichero\MiniPracticaFichero\obj\Debug\MiniPracticaFichero.exe
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaFichero\MiniPracticaFichero\obj\Debug\MiniPracticaFichero.pdb

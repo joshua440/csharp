@@ -1,0 +1,9 @@
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaBotonera\miniPracticaBotonera\bin\Debug\miniPracticaBotonera.exe.config
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaBotonera\miniPracticaBotonera\bin\Debug\miniPracticaBotonera.exe
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaBotonera\miniPracticaBotonera\bin\Debug\miniPracticaBotonera.pdb
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaBotonera\miniPracticaBotonera\obj\Debug\miniPracticaBotonera.csprojResolveAssemblyReference.cache
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaBotonera\miniPracticaBotonera\obj\Debug\miniPracticaBotonera.Form1.resources
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaBotonera\miniPracticaBotonera\obj\Debug\miniPracticaBotonera.Properties.Resources.resources
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaBotonera\miniPracticaBotonera\obj\Debug\miniPracticaBotonera.csproj.GenerateResource.Cache
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaBotonera\miniPracticaBotonera\obj\Debug\miniPracticaBotonera.exe
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaBotonera\miniPracticaBotonera\obj\Debug\miniPracticaBotonera.pdb

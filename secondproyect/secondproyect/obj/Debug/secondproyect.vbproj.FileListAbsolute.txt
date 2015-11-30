@@ -1,0 +1,10 @@
+c:\users\joshu\documents\visual studio 2015\Projects\secondproyect\secondproyect\bin\Debug\secondproyect.exe.config
+c:\users\joshu\documents\visual studio 2015\Projects\secondproyect\secondproyect\bin\Debug\secondproyect.exe
+c:\users\joshu\documents\visual studio 2015\Projects\secondproyect\secondproyect\bin\Debug\secondproyect.pdb
+c:\users\joshu\documents\visual studio 2015\Projects\secondproyect\secondproyect\bin\Debug\secondproyect.xml
+c:\users\joshu\documents\visual studio 2015\Projects\secondproyect\secondproyect\obj\Debug\secondproyect.vbprojResolveAssemblyReference.cache
+c:\users\joshu\documents\visual studio 2015\Projects\secondproyect\secondproyect\obj\Debug\secondproyect.Resources.resources
+c:\users\joshu\documents\visual studio 2015\Projects\secondproyect\secondproyect\obj\Debug\secondproyect.vbproj.GenerateResource.Cache
+c:\users\joshu\documents\visual studio 2015\Projects\secondproyect\secondproyect\obj\Debug\secondproyect.exe
+c:\users\joshu\documents\visual studio 2015\Projects\secondproyect\secondproyect\obj\Debug\secondproyect.xml
+c:\users\joshu\documents\visual studio 2015\Projects\secondproyect\secondproyect\obj\Debug\secondproyect.pdb

@@ -1,0 +1,16 @@
+c:\users\joshu\documents\visual studio 2015\Projects\Magic\Magic\bin\Debug\Magic.exe.config
+C:\Users\joshu\documents\visual studio 2015\Projects\Magic\Magic\bin\Debug\Magic.exe
+C:\Users\joshu\documents\visual studio 2015\Projects\Magic\Magic\bin\Debug\Magic.pdb
+C:\Users\joshu\documents\visual studio 2015\Projects\Magic\Magic\obj\Debug\Magic.csprojResolveAssemblyReference.cache
+C:\Users\joshu\documents\visual studio 2015\Projects\Magic\Magic\obj\Debug\Magic.Form1.resources
+C:\Users\joshu\documents\visual studio 2015\Projects\Magic\Magic\obj\Debug\Magic.Properties.Resources.resources
+C:\Users\joshu\documents\visual studio 2015\Projects\Magic\Magic\obj\Debug\Magic.csproj.GenerateResource.Cache
+C:\Users\joshu\documents\visual studio 2015\Projects\Magic\Magic\obj\Debug\Magic.exe
+C:\Users\joshu\documents\visual studio 2015\Projects\Magic\Magic\obj\Debug\Magic.pdb
+C:\Users\joshu\documents\visual studio 2015\Projects\Magic\Magic\obj\Debug\Magic.Form2.resources
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\Magic\Magic\bin\Debug\MagicBdd.mdf
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\Magic\Magic\bin\Debug\MagicBdd_log.ldf
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\Magic\Magic\obj\Debug\Magic.Form3.resources
+C:\Users\joshu\GitHub\Projects\Magic\Magic\bin\Debug\Magic.exe.config
+C:\Users\joshu\GitHub\Projects\Magic\Magic\obj\Debug\Magic.exe
+C:\Users\joshu\GitHub\Projects\Magic\Magic\obj\Debug\Magic.pdb

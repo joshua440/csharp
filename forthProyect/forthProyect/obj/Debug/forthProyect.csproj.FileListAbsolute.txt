@@ -1,0 +1,9 @@
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\forthProyect\forthProyect\bin\Debug\forthProyect.exe.config
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\forthProyect\forthProyect\obj\Debug\forthProyect.exe
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\forthProyect\forthProyect\obj\Debug\forthProyect.pdb
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\forthProyect\forthProyect\bin\Debug\forthProyect.exe
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\forthProyect\forthProyect\bin\Debug\forthProyect.pdb
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\forthProyect\forthProyect\obj\Debug\forthProyect.csprojResolveAssemblyReference.cache
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\forthProyect\forthProyect\obj\Debug\forthProyect.Form1.resources
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\forthProyect\forthProyect\obj\Debug\forthProyect.Properties.Resources.resources
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\forthProyect\forthProyect\obj\Debug\forthProyect.csproj.GenerateResource.Cache

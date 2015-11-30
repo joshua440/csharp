@@ -1,0 +1,9 @@
+c:\users\joshu\documents\visual studio 2015\Projects\thirdproyect\thirdproyect\bin\Debug\thirdproyect.exe.config
+c:\users\joshu\documents\visual studio 2015\Projects\thirdproyect\thirdproyect\bin\Debug\thirdproyect.exe
+c:\users\joshu\documents\visual studio 2015\Projects\thirdproyect\thirdproyect\bin\Debug\thirdproyect.pdb
+c:\users\joshu\documents\visual studio 2015\Projects\thirdproyect\thirdproyect\obj\Debug\thirdproyect.csprojResolveAssemblyReference.cache
+c:\users\joshu\documents\visual studio 2015\Projects\thirdproyect\thirdproyect\obj\Debug\thirdproyect.Form1.resources
+c:\users\joshu\documents\visual studio 2015\Projects\thirdproyect\thirdproyect\obj\Debug\thirdproyect.Properties.Resources.resources
+c:\users\joshu\documents\visual studio 2015\Projects\thirdproyect\thirdproyect\obj\Debug\thirdproyect.csproj.GenerateResource.Cache
+c:\users\joshu\documents\visual studio 2015\Projects\thirdproyect\thirdproyect\obj\Debug\thirdproyect.exe
+c:\users\joshu\documents\visual studio 2015\Projects\thirdproyect\thirdproyect\obj\Debug\thirdproyect.pdb

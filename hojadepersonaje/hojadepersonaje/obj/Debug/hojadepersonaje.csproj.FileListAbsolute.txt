@@ -1,0 +1,14 @@
+c:\users\joshu\documents\visual studio 2015\Projects\hojadepersonaje\hojadepersonaje\bin\Debug\hojadepersonaje.exe.config
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\hojadepersonaje\hojadepersonaje\bin\Debug\hojadepersonaje.exe
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\hojadepersonaje\hojadepersonaje\bin\Debug\hojadepersonaje.pdb
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\hojadepersonaje\hojadepersonaje\obj\Debug\hojadepersonaje.csprojResolveAssemblyReference.cache
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\hojadepersonaje\hojadepersonaje\obj\Debug\hojadepersonaje.Form1.resources
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\hojadepersonaje\hojadepersonaje\obj\Debug\hojadepersonaje.Properties.Resources.resources
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\hojadepersonaje\hojadepersonaje\obj\Debug\hojadepersonaje.csproj.GenerateResource.Cache
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\hojadepersonaje\hojadepersonaje\obj\Debug\hojadepersonaje.exe
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\hojadepersonaje\hojadepersonaje\obj\Debug\hojadepersonaje.pdb
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\hojadepersonaje\hojadepersonaje\bin\Debug\Interop.WMPLib.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\hojadepersonaje\hojadepersonaje\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\hojadepersonaje\hojadepersonaje\obj\Debug\Interop.WMPLib.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\hojadepersonaje\hojadepersonaje\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\joshu\Documents\Visual Studio 2015\Projects\hojadepersonaje\hojadepersonaje\obj\Debug\hojadepersonaje.csproj.ResolveComReference.cache

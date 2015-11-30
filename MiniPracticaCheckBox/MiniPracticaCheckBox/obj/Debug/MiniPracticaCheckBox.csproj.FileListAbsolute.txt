@@ -1,0 +1,9 @@
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaCheckBox\MiniPracticaCheckBox\bin\Debug\MiniPracticaCheckBox.exe.config
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaCheckBox\MiniPracticaCheckBox\bin\Debug\MiniPracticaCheckBox.exe
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaCheckBox\MiniPracticaCheckBox\bin\Debug\MiniPracticaCheckBox.pdb
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaCheckBox\MiniPracticaCheckBox\obj\Debug\MiniPracticaCheckBox.csprojResolveAssemblyReference.cache
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaCheckBox\MiniPracticaCheckBox\obj\Debug\MiniPracticaCheckBox.Form1.resources
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaCheckBox\MiniPracticaCheckBox\obj\Debug\MiniPracticaCheckBox.Properties.Resources.resources
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaCheckBox\MiniPracticaCheckBox\obj\Debug\MiniPracticaCheckBox.csproj.GenerateResource.Cache
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaCheckBox\MiniPracticaCheckBox\obj\Debug\MiniPracticaCheckBox.exe
+c:\users\joshu\documents\visual studio 2015\Projects\MiniPracticaCheckBox\MiniPracticaCheckBox\obj\Debug\MiniPracticaCheckBox.pdb

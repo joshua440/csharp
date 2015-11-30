@@ -1,0 +1,9 @@
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaDragAndDrop\miniPracticaDragAndDrop\bin\Debug\miniPracticaDragAndDrop.exe.config
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaDragAndDrop\miniPracticaDragAndDrop\bin\Debug\miniPracticaDragAndDrop.exe
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaDragAndDrop\miniPracticaDragAndDrop\bin\Debug\miniPracticaDragAndDrop.pdb
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaDragAndDrop\miniPracticaDragAndDrop\obj\Debug\miniPracticaDragAndDrop.csprojResolveAssemblyReference.cache
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaDragAndDrop\miniPracticaDragAndDrop\obj\Debug\miniPracticaDragAndDrop.Form1.resources
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaDragAndDrop\miniPracticaDragAndDrop\obj\Debug\miniPracticaDragAndDrop.Properties.Resources.resources
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaDragAndDrop\miniPracticaDragAndDrop\obj\Debug\miniPracticaDragAndDrop.csproj.GenerateResource.Cache
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaDragAndDrop\miniPracticaDragAndDrop\obj\Debug\miniPracticaDragAndDrop.exe
+c:\users\joshu\documents\visual studio 2015\Projects\miniPracticaDragAndDrop\miniPracticaDragAndDrop\obj\Debug\miniPracticaDragAndDrop.pdb

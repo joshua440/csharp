@@ -1,0 +1,9 @@
+c:\users\joshu\documents\visual studio 2015\Projects\practicaCombo\practicaCombo\bin\Debug\practicaCombo.exe.config
+c:\users\joshu\documents\visual studio 2015\Projects\practicaCombo\practicaCombo\bin\Debug\practicaCombo.exe
+c:\users\joshu\documents\visual studio 2015\Projects\practicaCombo\practicaCombo\bin\Debug\practicaCombo.pdb
+c:\users\joshu\documents\visual studio 2015\Projects\practicaCombo\practicaCombo\obj\Debug\practicaCombo.csprojResolveAssemblyReference.cache
+c:\users\joshu\documents\visual studio 2015\Projects\practicaCombo\practicaCombo\obj\Debug\practicaCombo.Form1.resources
+c:\users\joshu\documents\visual studio 2015\Projects\practicaCombo\practicaCombo\obj\Debug\practicaCombo.Properties.Resources.resources
+c:\users\joshu\documents\visual studio 2015\Projects\practicaCombo\practicaCombo\obj\Debug\practicaCombo.csproj.GenerateResource.Cache
+c:\users\joshu\documents\visual studio 2015\Projects\practicaCombo\practicaCombo\obj\Debug\practicaCombo.exe
+c:\users\joshu\documents\visual studio 2015\Projects\practicaCombo\practicaCombo\obj\Debug\practicaCombo.pdb
